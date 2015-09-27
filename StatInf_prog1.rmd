@@ -108,7 +108,7 @@ sample_sd <- mean(sds)
 
 ```
 
-The estimated values for the population mean and the population standard deviation could be calculated from these vectors. The calculated value for the population mean, as the mean of all the samples mean, is 
+The estimated values for the population mean and the population standard deviation could be calculated from these vectors. The calculated value for the population mean, as the mean of all the sample mean, is **`r sample_mean`**. And the calculated value for the population standard deviation, as the **mean of all the sample standard deviations**, is **`r sample_sd`**.
 
 
 ## 2.3. Histograms and normal curves
@@ -146,5 +146,5 @@ After this simulation we can easily see that the exponential distribution conver
 
 # 4. Extras
 
-You will find the R script in my GitHub repostory. You can go there through that (link)[https://github.com/jjperez78/] 
+You will find the R script in my GitHub repostory. You can go there through that (link)[https://github.com/jjperez78/StatisticalInference.git] 
 
